@@ -1,0 +1,23 @@
+.movieContainer {
+  margin-bottom: 20px;
+}
+.button {
+  height: 40px;
+  margin-right: 20px;
+  cursor: pointer;
+}
+.buttonContainer {
+  margin: 10px;
+  height: 40px;
+}
+
+.title {
+  color: white;
+  font-size: 50px;
+  font-weight: 700;
+}
+
+.star {
+  color: gold;
+  font-size: 25px;
+}
