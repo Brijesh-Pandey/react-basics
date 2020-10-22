@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.person {
+  display: inline-block;
+  margin: 5px;
+  border: solid 1px rgb(237, 243, 240);
+  box-shadow: 0 2px 2px #615c5c;
+  width: 200px;
+}
