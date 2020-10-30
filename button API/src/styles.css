@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.buttonGreen {
+  height: 50px;
+  width: 80px;
+  background-color: green;
+  font-size: 20px;
+}
+.buttonRed {
+  height: 50px;
+  width: 80px;
+  background-color: red;
+  font-size: 20px;
+}
+.buttonOrange {
+  height: 50px;
+  width: 80px;
+  background-color: orange;
+  font-size: 20px;
+}
